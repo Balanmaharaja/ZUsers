@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="red">#EF0606</color>
+    <color name="green">#05A092</color>
+    <color name="blue">#102ED8</color>
+
+    <color name="primaryColor">#2979FF</color>
+    <color name="primaryDarkColor">#1942CD</color>
+    <color name="accentVariant">#1942CD</color>
+    <color name="textColorPrimary">#181833</color>
+    <color name="backgroundColor">#FFFFFF</color>
+
+    <!--Surface Colors-->
+    <color name="surface">#f2f5f8</color>
+    <color name="surfaceDark">#E8EAEC</color>
+    <color name="surfaceContainer">#FFFFFFFF</color>
+
+    <!--TextColors-->
+    <color name="primary_textColor">#181833</color>
+    <color name="secondary_textColor">#4F4F60</color>
+
+
+    <!--Error Colors-->
+    <color name="error">#B3261E</color>
+    <color name="errorContainer">#F9DEDC</color>
+    <color name="error_textColor">#FFFFFF</color>
+
+    <color name="outline">#79747E</color>
+    <color name="shadow">#000000</color>
+
+    <color name="default_icon_color">#FF000000</color>
+    <color name="card_view_option_color">#F9F8FC</color>
+
+    <color name="light_gray">#E9ECF0</color>
+    <color name="non_selected_items">#8a8a8a</color>
+
+    <color name="primaryButtonColor">#0F0F46</color>
+    <color name="gray_dark_stroke">#D3D8ED</color>
+    <color name="blue_theme_color">#3091e6</color>
+
+    <color name="even_row_color">#F0F0F0</color>
+    <color name="odd_row_color">#FFFFFF</color>
+
+
+</resources>
